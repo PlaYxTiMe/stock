@@ -1,6 +1,6 @@
 # Python作品-存股Searcher
 
-![Money圖片](https://raw.githubusercontent.com/PlaYxTiMe/CH-git/master/money.gif?token=GHSAT0AAAAAABRMAWQHHC7KTNOMV6FZ7BL2YQDH6TA)
+![Money圖片](https://raw.githubusercontent.com/PlaYxTiMe/Django/master/money.gif)
 
 
 ### 創建日期
